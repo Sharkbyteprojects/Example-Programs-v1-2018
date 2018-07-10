@@ -10,4 +10,9 @@ Mirror:
 
 ---
 
+Please write your ideas in this isue: #2
+
+
+---
+
 This document has been translated by the Microsoft Translator.
