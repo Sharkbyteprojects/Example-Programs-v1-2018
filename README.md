@@ -10,7 +10,7 @@ Mirror:
 
 ---
 
-Please write your ideas in this isue: #2
+Please write your ideas in this isue: [#2](https://github.com/Sharkbyteprojects/Example-Programs-v1-2018/issues/2)
 
 
 ---
